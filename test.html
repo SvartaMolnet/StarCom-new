@@ -1,0 +1,18 @@
+<html>
+<body>
+<script type="text/javascript">
+function changeimage() {
+    var a = document.getElementById('text').value;
+    var c = a + ".jpg";
+
+    document.getElementById('image').src = c;
+}
+</script>
+<form>
+<form>
+  <img id='image' src=""/><br>
+  <input type='text' id='text'>
+  <input type="button" value="change picture" onclick="changeimage()">
+</form>
+</body>
+</html>

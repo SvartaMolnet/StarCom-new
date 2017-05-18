@@ -1,0 +1,9 @@
+.jumbotron {
+	background-color:#333333 !important;
+}
+#new {
+	background-image: url("https://s-media-cache-ak0.pinimg.com/originals/8f/96/b7/8f96b718c1c42a84633d17eb2f780302.jpg");
+	background-repeat: no-repeat;
+	margin-left: 20px;
+	width: 100%;
+}
